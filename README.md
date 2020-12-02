@@ -3,5 +3,5 @@ Taking Taxi rank location data for Johannesburg, South Africa and clustering the
 
 
 Github doesn't support Map visualization. So view the 'Project Final.ipynb' file with geo spatial visualizations click here:
-
+https://github.com/maha-prathamesh/Clustering-Geolocation-Data-in-Python/blob/main/Project%20Final.ipynb
 
