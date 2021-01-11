@@ -7,7 +7,6 @@ To be able to understand to understand the code and perform the task, a basic kn
 2. Basic understanding of Pandas and how to use it for data manipulation.
 3. The basic concepts behind clustering algorithms. We will be working with K-Means, DBSCAN and HDBSCAN.
 
-
 <b>Outline</b>
 
 We will divide the project into 7 parts.
